@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://launcher.myapps.microsoft.com/api/signin/f46c9753-6515-40f6-9368-fc15b66ba4bb?tenantId=533315fc-eb90-40da-b1dc-4479501b187b",
+      "statusCode": 302
+    }
+  ]
+}
